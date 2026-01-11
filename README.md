@@ -1,17 +1,17 @@
 Desafio DIO
-Projeto desenvolvido por: Vitor Brandão Barbosa de Melo, como parte do Bootcamp Luizalabs - Back-end com Python (Desafio DIO) - Creditos e codigo inicial de desenvolvimento: alinealien
+Projeto desenvolvido por: Vitor Brandão Barbosa de Melo, como parte do Bootcamp Luizalabs - Back-end com Python 
+Creditos e codigo inicial de desenvolvimento: alinealien
 
 # Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
-## 1 - Concatenando Dados 🐾
-<!-- (arquivo: 1-concat_dados.py) -->
+## 1 - Concatenando Dados 🐾 arquivo: 1-concat_dados.py
 
 Descrição:
 Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
 
-O que aprenderemos?
+O que foi implementado?
 
 * Manipulação de Strings (string)
 * Concatenação
@@ -20,13 +20,12 @@ O que aprenderemos?
 
 <br>
 
-## 2 - Repetindo Textos ✏️
-<!-- (arquivo: 2-repet_txt.py) -->
+## 2 - Repetindo Textos ✏️ arquivo: 2-repet_txt.py
 
-Descrição:
+O que foi implementado?
 Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
 
-O que aprenderemos?
+O que foi implementado?
 
 * Manipulação de Strings (string)
 * Números Inteiros (int)
@@ -36,13 +35,12 @@ O que aprenderemos?
 
 <br>
 
-## 3 - Operações Matemáticas Simples 📐
-<!-- (arquivo: 3-ope_mat.py) -->
+## 3 - Operações Matemáticas Simples 📐 arquivo: 3-ope_mat.py
 
 Descrição:
 Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
-O que aprenderemos?
+O que foi implementado?
 
 * Operações Matemáticas Básicas
 * Entrada de dados
@@ -50,13 +48,12 @@ O que aprenderemos?
 
 <br>
 
-## 4 - Verificando Números Pares e Ímpares 🧮
-<!-- (arquivo: 4-num_pares_imp.py) -->
+## 4 - Verificando Números Pares e Ímpares 🧮 arquivo: 4-num_pares_imp.py
 
 Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
 Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
 
-O que aprenderemos?
+O que foi implementado?
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
 * Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
@@ -64,26 +61,24 @@ O que aprenderemos?
 
 <br>
 
-## 5 - Calculando Média de Notas 📚
-<!-- (arquivo: 5-media_notas.py) -->
+## 5 - Calculando Média de Notas 📚 arquivo: 5-media_notas.py
 
 Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
 Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
 
-O que aprenderemos?
+O que foi implementado?
 * Uso de variáveis para armazenar dados fornecidos pelo usuário.
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
 
 <br>
 
-## 6 - Verificando Palíndromos 🔄
-<!-- (arquivo: 6-ver-palindromos.py) -->
+## 6 - Verificando Palíndromos 🔄 arquivo: 6-ver-palindromos.py
 
 Descrição: Vamos testar se uma palavra é um palíndromo?! 
 Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
 
-O que aprenderemos?
+O que foi implementado?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
